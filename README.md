@@ -10,6 +10,12 @@ This repository contains my hands-on practice notebooks that apply core Python c
 - Topics: company metrics, monthly sales, dataset info, salary calculator
 - [View Notebook](Day1_Python_Variables_Analytics_Practice.ipynb)
 
+### Day 2 – Python Data Types & Type Casting
+- Worked with real-world data cleaning, type conversion
+- Created a summary function using `isinstance()`
+- [View Notebook](Day2_Python_DataTypes_TypeCasting.ipynb)
+
+
 ## 🛠️ Tools Used
 - Python
 - Jupyter Notebook
